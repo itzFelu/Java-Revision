@@ -1,4 +1,4 @@
-package basics.HelloWorld;
+// package basics.HelloWorld;
 
 public class HelloWorld{
     public static void main(String[]args){
